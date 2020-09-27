@@ -2,6 +2,8 @@
 
 Explain what your project does here.
 
+When you are done, delete everything else on this page. It is only here for reference.
+
 Note the following Markdown formatting:
 
 # Header 1
