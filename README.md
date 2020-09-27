@@ -1,25 +1,29 @@
-# Master CT Assignment Template 
+# Project 1
 
-Use this master template to create CT Assignment Templates.
+Explain what your project does here.
 
-## Problem Description
-Problem description goes here. 
+Note the following Markdown formatting:
 
-* Steps to take go here. 
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
 
-## Example
+*Single asterisks make italics*
+
+**Double asterisks make text bold**
+
+* Asterisk + space before text gives bulleted list
+  * Tabbed asterisks give indented lists
+
+`You can make code blocks in a line like this...`
+
 ```
-Value to increment? 5
-10
+...and over 
+multiple
+lines
+like this
 ```
 
-## Suggested Approach
-1) Suggestions go here
-
-## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
+Use the preview tab at the top to see how it looks. You can edit directly in GitHub or in Gitpod. Be careful not to edit in GitHub while Gitpod is open or you may have version conflicts.
 
