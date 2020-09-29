@@ -3,8 +3,10 @@
 
 Write a program that meets the following criteria. You may choose the topic and style. Feel free to do something that relates to another class, a hobby or interest, or just sounds interesting.
 
+Start by mapping your idea out in pseudocode, then writing the program. You will probably need to go back and forth as the program evolves, but it's important to figure out the logic *before* starting to write the program!
+
 ### Criteria
-#### Your program should include a minimum of: 
+Your program should include a minimum of: 
 * 1 list (3 or more elements)
 * manipulation of the list in some way
 * 1 while loop
@@ -18,7 +20,7 @@ Write a program that meets the following criteria. You may choose the topic and 
 * Collaborators (as usual)
 
 ### Functionality
-#### Your program should:
+Your program should:
 * Take input and use that as part of the program
 * Respond appropriately to bad input
 * Include proper formatting, including spacing, order of elements, etc.
